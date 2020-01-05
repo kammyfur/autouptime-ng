@@ -1,0 +1,106 @@
+[
+    {
+        "name": "Minteck Projects CMS",
+        "server": "mpcms-ws",
+        "domain": "mpcms.rf.gd",
+        "status": 0,
+        "message": "Operational — Code 200",
+        "uptime": "100.00"
+    },
+    {
+        "name": "Red Numérique",
+        "server": "partner-rn-ws",
+        "domain": "red-numerique.mpcms.rf.gd",
+        "status": 0,
+        "message": "Operational — Code 200",
+        "uptime": "100.00"
+    },
+    {
+        "name": "Minteck Projects Private",
+        "server": "private-ws",
+        "domain": "private.mpcms.rf.gd",
+        "status": 0,
+        "message": "Operational — Code 200",
+        "uptime": "100.00"
+    },
+    {
+        "name": "Minteck Projects Care",
+        "server": "mprj-care",
+        "domain": "care.mpcms.rf.gd",
+        "status": 0,
+        "message": "Operational — Code 200",
+        "uptime": "100.00"
+    },
+    {
+        "name": "PinPages",
+        "server": "pinpages",
+        "domain": "pinpages.alwaysdata.net",
+        "status": 0,
+        "message": "Operational — Code 200",
+        "uptime": "100.00"
+    },
+    {
+        "name": "CMS Store",
+        "server": "mpcms-store",
+        "domain": "store.mpcms.rf.gd",
+        "status": 0,
+        "message": "Operational — Code 200",
+        "uptime": "100.00"
+    },
+    {
+        "name": "Max",
+        "server": "discord-max",
+        "domain": "discordapp.com",
+        "status": 0,
+        "message": "Operational — Code 200",
+        "uptime": "100.00"
+    },
+    {
+        "name": "OpenPlug",
+        "server": "openplug",
+        "domain": "discordapp.com",
+        "status": 0,
+        "message": "Operational — Code 200",
+        "uptime": "100.00"
+    },
+    {
+        "name": "Site officiel",
+        "server": "site-power",
+        "domain": "minteck-projects.alwaysdata.net",
+        "status": 0,
+        "message": "Operational — Code 200",
+        "uptime": "100.00"
+    },
+    {
+        "name": "BetterSearch",
+        "server": "bettersearch",
+        "domain": "better-search.000webhostapp.com",
+        "status": 0,
+        "message": "Operational — Code 200",
+        "uptime": "100.00"
+    },
+    {
+        "name": "Projectpédia 2",
+        "server": "projectpedia",
+        "domain": "projectpedia.alwaysdata.net",
+        "status": 0,
+        "message": "Operational — Code 200",
+        "uptime": "100.00"
+    },
+    {
+        "name": "GetSource",
+        "server": "getsource",
+        "domain": "gitlab.com",
+        "status": 0,
+        "message": "Operational — Code 200",
+        "uptime": "100.00"
+    },
+    {
+        "name": "Minteck Projects CDN",
+        "server": "global-cdn",
+        "domain": "cdn-minteck-projects.000webhostapp.com",
+        "status": 0,
+        "message": "Operational — Code 200",
+        "uptime": "100.00"
+    }
+]

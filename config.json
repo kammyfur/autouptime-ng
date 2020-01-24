@@ -1,7 +1,10 @@
 {
     "version": 1,
     "refresh": 60,
+    "maintenance": false,
+    "maintenanceReason": "Nous changeons de serveur, l'état des services revient dans moins d'1 semaine",
     "ua": "+MinteckProjectsAutoUptime/1",
+    "percentageMaxValues": null,
     "websites": [
         {
             "dns": "mpcms.rf.gd",
@@ -31,17 +34,6 @@
             "root": "/",
             "commonName": "Minteck Projects Care",
             "serverName": "mprj-care",
-            "timeout": {
-                "ping": 2000,
-                "request": 10000
-            }
-        },
-        {
-            "dns": "red-numerique.mpcms.rf.gd",
-            "type": "http",
-            "root": "/",
-            "commonName": "Red Numérique",
-            "serverName": "partner-rn-ws",
             "timeout": {
                 "ping": 2000,
                 "request": 10000

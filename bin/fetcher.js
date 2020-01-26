@@ -26,7 +26,7 @@ setInterval(() => {
 
 module.exports = () => {
     log("Initied new output file");
-    output = [ config.maintenance ];
+    output = [ { maintenance: config.maintenance, maintenanceReason: config.maintenanceReason } ];
     log("Fetching websites");
     config.websites.forEach((element, index) => {
         if (false) {} else {

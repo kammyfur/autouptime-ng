@@ -1,0 +1,301 @@
+{
+    "version": "2.0",
+    "date": "18/3/2020 23:16:23",
+    "sites": [
+        {
+            "name": "Main Website Portal",
+            "main": true,
+            "history": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "data": {
+                "name": "Main Website Portal",
+                "description": "Our main website, where you can go on other websites",
+                "plugin": "https",
+                "percentage": "96.67",
+                "data": {
+                    "code": 0,
+                    "message": "Operational"
+                }
+            }
+        },
+        {
+            "name": "Global Resources",
+            "main": false,
+            "history": null,
+            "data": [
+                {
+                    "name": "Content Delivery Network",
+                    "description": "This content delivery network helps us dispatch images, fonts, and more to multiples websites",
+                    "plugin": "https",
+                    "percentage": null,
+                    "data": {
+                        "code": 0,
+                        "message": "Operational"
+                    }
+                },
+                {
+                    "name": "Services Status",
+                    "description": "Based on the best technologies, the services status page helps us and you get info about what works and what doesn't.",
+                    "plugin": "https",
+                    "percentage": null,
+                    "data": {
+                        "code": 0,
+                        "message": "Operational"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "PinPages",
+            "main": false,
+            "history": null,
+            "data": [
+                {
+                    "name": "Root Website",
+                    "description": "The first place you go on PinPages",
+                    "plugin": "https",
+                    "percentage": null,
+                    "data": {
+                        "code": 0,
+                        "message": "Operational"
+                    }
+                },
+                {
+                    "name": "API",
+                    "description": "Commands used to give instructions to PinPages' backend and database",
+                    "plugin": "https",
+                    "percentage": null,
+                    "data": {
+                        "code": 0,
+                        "message": "Operational"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Minteck Projects CMS",
+            "main": false,
+            "history": null,
+            "data": [
+                {
+                    "name": "Root Website",
+                    "description": "The first place you go to get official info about Minteck Projects CMS",
+                    "plugin": "http",
+                    "percentage": null,
+                    "data": {
+                        "code": 0,
+                        "message": "Operational"
+                    }
+                },
+                {
+                    "name": "Download Mirror",
+                    "description": "Another server used to give you the files from Minteck Projects CMS",
+                    "plugin": "https",
+                    "percentage": null,
+                    "data": {
+                        "code": 0,
+                        "message": "Operational"
+                    }
+                },
+                {
+                    "name": "CMS Store",
+                    "description": "Official plugins store for Minteck Projects CMS",
+                    "plugin": "http",
+                    "percentage": null,
+                    "data": {
+                        "code": 0,
+                        "message": "Operational"
+                    }
+                },
+                {
+                    "name": "Hosting : Care",
+                    "description": "Minteck Projects CMS website managed by Minteck Projects",
+                    "plugin": "http",
+                    "percentage": null,
+                    "data": {
+                        "code": 0,
+                        "message": "Operational"
+                    }
+                },
+                {
+                    "name": "Shadow Hosting Website",
+                    "description": "Website used to manage all Minteck Projects' MPCMS managed websites",
+                    "plugin": "http",
+                    "percentage": null,
+                    "data": {
+                        "code": 0,
+                        "message": "Operational"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "BetterSearch",
+            "main": false,
+            "history": null,
+            "data": [
+                {
+                    "name": "Root Website",
+                    "description": "The first place you go to use the BetterSearch service",
+                    "plugin": "https",
+                    "percentage": null,
+                    "data": {
+                        "code": 0,
+                        "message": "Operational"
+                    }
+                },
+                {
+                    "name": "API",
+                    "description": "Commands used both by BetterSearch itself and by the integrations (addon, mobile app, ...)",
+                    "plugin": "https",
+                    "percentage": null,
+                    "data": {
+                        "code": 0,
+                        "message": "Operational"
+                    }
+                },
+                {
+                    "name": "Firefox Addon",
+                    "description": "Where BetterSearch's Firefox addon is downloaded and maintened",
+                    "plugin": "https",
+                    "percentage": null,
+                    "data": {
+                        "code": 0,
+                        "message": "Operational"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Discord-Linked Services",
+            "main": false,
+            "history": null,
+            "data": [
+                {
+                    "name": "Max Gateway",
+                    "description": "Gateway for Discord bot",
+                    "plugin": "https",
+                    "percentage": null,
+                    "data": {
+                        "code": 0,
+                        "message": "Operational"
+                    }
+                },
+                {
+                    "name": "OpenPlug Gateway",
+                    "description": "Gateway for Discord server",
+                    "plugin": "https",
+                    "percentage": null,
+                    "data": {
+                        "code": 0,
+                        "message": "Operational"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Tyson Fans",
+            "main": false,
+            "history": null,
+            "data": [
+                {
+                    "name": "Website",
+                    "description": "Official Tyson Fans' website",
+                    "plugin": "http",
+                    "percentage": null,
+                    "data": {
+                        "code": 0,
+                        "message": "Operational"
+                    }
+                },
+                {
+                    "name": "Shadow Website",
+                    "description": "Shadow website used to redirect from other domains",
+                    "plugin": "http",
+                    "percentage": null,
+                    "data": {
+                        "code": 0,
+                        "message": "Operational"
+                    }
+                },
+                {
+                    "name": "Tyson Bots Gateway",
+                    "description": "Gateway used by Tyson Bots service to chat with end user",
+                    "plugin": "https",
+                    "percentage": null,
+                    "data": {
+                        "code": 0,
+                        "message": "Operational"
+                    }
+                },
+                {
+                    "name": "Tyson Bots Backend",
+                    "description": "AI server used for Tyson Bots",
+                    "plugin": "https",
+                    "percentage": null,
+                    "data": {
+                        "code": 0,
+                        "message": "Operational"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "GetSource",
+            "main": false,
+            "history": null,
+            "data": [
+                {
+                    "name": "Git",
+                    "description": "Git server used to host Minteck Projects' code",
+                    "plugin": "https",
+                    "percentage": null,
+                    "data": {
+                        "code": 0,
+                        "message": "Operational"
+                    }
+                },
+                {
+                    "name": "Gateway",
+                    "description": "Main access point to Git server",
+                    "plugin": "https",
+                    "percentage": null,
+                    "data": {
+                        "code": 0,
+                        "message": "Operational"
+                    }
+                }
+            ]
+        }
+    ]
+}

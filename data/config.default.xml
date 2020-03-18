@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AutoUptime>
+	<Export> <!-- Export settings -->
+		<ExportMode>simple</ExportMode> <!-- simple: Exports to data/export.json, ftp: Exports to FTP server -->
+		<ExportModeFtp> <!-- Configuration for 'ftp' export mode -->
+			<Host>ftp.example.com</Host> <!-- FTP host name -->
+			<Port>21</Port> <!-- FTP port -->
+			<FileName>/folder/file.json</FileName> <!-- FTP distant file name, needs to be FULL path -->
+			<Authentication>true</Authentication> <!-- Whether or not login using specified credentials -->
+			<Credentials> <!-- FTP login info -->
+				<UserName>admin</UserName> <!-- FTP username -->
+				<Password>MySuperSecretPassword</Password> <!-- FTP password, needs to be plain text! -->
+			</Credentials>
+		</ExportModeFtp>
+	</Export>
+	<Sites> <!-- Sites to crawl -->
+		<AutouptimeSite> <!-- Definition for 1 site -->
+			<CommonName>Officiel Blog</CommonName> <!-- Name that will be shown to the end user -->
+			<Main>true</Main> <!-- Whether or not this site is the main one and should get more info. Enabling this option disable multiple crawls and only keeps the first one. -->
+			<Crawls> <!-- All elements for 1 site -->
+				<SiteCrawl>
+					<CommonName>Website</CommonName> <!-- Name that will be shown to the end user -->
+					<Description></Description> <!-- Description of crawl -->
+					<Plugin>http</Plugin> <!-- Plugin to use -->
+					<Host>example.com</Host> <!-- Host to ping -->
+					<Port>80</Port> <!-- Port to crawl -->
+					<Root>/</Root> <!-- Some plugins use this setting to determine which part of the app to crawl -->
+				</SiteCrawl>
+				<SiteCrawl></SiteCrawl> <!-- Always keep an empty element at the end of the list -->
+			</Crawls>
+		</AutouptimeSite>
+		<AutouptimeSite></AutouptimeSite> <!-- Always keep an empty element at the end of the list -->
+	</Sites>
+</AutoUptime>

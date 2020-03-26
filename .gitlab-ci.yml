@@ -1,0 +1,7 @@
+image: node:latest
+
+test:
+  script:
+    - npm install # Test dependancies
+    - chmod -Rfv 777 * # Make sure all files are accessible
+    - ls -Rsalo * # Make sure all directories are accessible
